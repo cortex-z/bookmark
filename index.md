@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<!--
-      _ ^ _
-  _./       \._
- / ⌒  ___   ⌒ \
-| (/ /     \ \) |
-|    | o o |    |
-|  ╭¯ _   _ ¯╮  |
-|  \ (  Y  ) /  |
- \_   ¯¯ ¯¯   _/ 
-   \_       _/
-      ¯ v ¯
-Across the GreatWall we can reach every corner in the world
-http://chuangzaoshi.com/open
--->
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
