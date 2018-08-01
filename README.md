@@ -8,7 +8,7 @@
 ##### `version 0.21` updated 2018.8.1 1:24（UTC+8）
 - change the icon of zd423 and iconfont
 
-#### `version 0.22` updated 2018.8.1 22:22（UTC+8）
+##### `version 0.22` updated 2018.8.1 22:22（UTC+8）
 - delete the link of zd couse the web has lost its credit
 
 ### About
