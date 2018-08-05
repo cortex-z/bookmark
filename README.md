@@ -11,5 +11,8 @@
 ##### `version 0.22` updated 2018.8.1 22:22（UTC+8）
 - delete the link of zd couse the web has lost its credit
 
+##### `version 0.23` updated 2018.8.6 2:53（UTC+8）
+- update couple of new website
+
 ### About
 - it is a web to redirect to some useful websites, and do as a bookmark which you could connect with where ever you are.
