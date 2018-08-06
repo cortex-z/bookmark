@@ -1,6 +1,8 @@
 # bookmard
 
 ### Update Log
+##### `version 0.24` updated 2018.8.6 19:44（UTC+8）
+- upload couple of new icons
 
 ##### `version 0.23` updated 2018.8.6 2:53（UTC+8）
 - update couple of new website
