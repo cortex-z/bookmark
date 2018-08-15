@@ -2,6 +2,11 @@
 
 ### Update Log
 
+##### `version 0.3` updated  2018.8.15 22:58（UTC+8）
+- update few new website
+- update few icons
+- MAKE THE GIT PUSH ojbk，hail！！！
+
 ##### `version 0.25` updated 2018.8.14 19:01（UTC+8）
 - upload couple of new icons
 - add threee new website
