@@ -2,6 +2,10 @@
 
 ### Update Log
 
+##### updated 2018.8.26 20:35（UTC+8）
+- the project would be closed
+- will rewrite in another project
+
 ##### `version 0.3` updated  2018.8.15 22:58（UTC+8）
 - update few new website
 - update few icons
